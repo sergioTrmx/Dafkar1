@@ -3,7 +3,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 │× SPAM
 │× LLAMADAS
 ┬
-╰──────「 *𝕸𝖗.𝕻𝖆𝖙𝖔 -𝕭𝖔𝖙⚜️🦆* 」
+╰──────「 *Sxrgxx🥷🏿* 」
 `
 }
 
@@ -23,7 +23,7 @@ function kyun(seconds){
 // info bot 
 const bottt = (prefix) => {
 return `
-Bot creado por Mr.Pato
+Bot creado por Mr.SergioTrmx
 `
 }
 exports.bottt = bottt
@@ -35,7 +35,7 @@ const donasi = (name) => {
 │ Puedes ayudar suscribiendote
 │
 ┬
-╰──────「 *𝕸𝖗.𝕻𝖆𝖙𝖔 -𝕭𝖔𝖙⚜️🦆* 」
+╰──────「 *Sxrgxx🥷🏿* 」
 `
 }
 exports.donasi = donasi
